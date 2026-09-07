@@ -1,56 +1,65 @@
-# FP&A: Budget vs. Actual Analysis Project
+# FP&A Budget vs Actual Analysis
 
-A comprehensive Financial Planning & Analysis (FP&A) project designed to track, analyze, and visualize variance between budgeted financial targets and actual performance. This project utilizes **Excel** for data modeling/structuring and **Power BI** for interactive management reporting.
+A practical **Financial Planning & Analysis (FP&A)** project built using **Microsoft Excel and Power BI** to evaluate Budget vs Actual performance, identify financial variances, analyze departmental performance, and provide management insights.
 
-## 📊 Project Overview
-In corporate finance, tracking variance is critical for strategic decision-making. This project delivers an automated workflow to analyze departmental spending, uncover cost drivers, and present actionable insights to stakeholders and executive management.
+## 📌 Project Objective
 
-### Key Objectives:
-*   **Variance Analysis:** Quantify and evaluate the absolute and percentage deviations between planned budgets and actual expenditures.
-*   **Departmental Deep-Dive:** Track performance metrics across distinct business units to ensure accountability.
-*   **Executive Dashboarding:** Build dynamic visual reports for quick high-level reviews and granular data filtering.
+To simulate a real-world FP&A reporting process by comparing budgeted financial targets with actual results and translating variances into actionable business insights.
 
----
+## 📊 Key Analysis
 
-## 📁 Repository Structure
+* Budget vs Actual **Revenue and Expenses**
+* **Operating Profit** and profitability variance
+* Revenue and Expense **Variance %**
+* **Department-level performance** analysis
+* Monthly performance and trend analysis
+* KPI and management performance summary
+* Identification of unfavorable cost variances
+* Management recommendations based on financial performance
 
-The repository consists of the following key deliverables:
+## 🛠️ Tools & Skills
 
-*   **`FPA_Budget_vs_Actual_Analysis.xlsx`**: The core data engine containing financial models, budget sheets, actual ledger entries, and an integrated Excel dashboard.
-*   **`FP&A Budget vs Actual Analysis.pbix`**: The Power BI desktop file containing the relational data model, custom DAX measures, and interactive visualizations.
-*   **Visual Previews (`.png` files)**:
-    *   `Excel Dashboard.png`: Snapshot of the operational spreadsheet dashboard.
-    *   `FP&A Management Dashboard.png`: High-level executive overview in Power BI.
-    *   `Budget vs Actual Analysis.png`: Detailed variance breakdown visual.
-    *   `Department details.png`: Component analysis segmented by business department.
+**Microsoft Excel**
 
----
+* Financial modelling
+* Budget vs Actual analysis
+* Excel formulas and variance calculations
+* KPI analysis
+* Dashboard development
+* Management insights
 
-## 🛠️ Tech Stack & Skills Demonstrated
+**Microsoft Power BI**
 
-*   **Financial Modeling:** Budget forecasting, variance analysis, expense tracking, and KPI formulation.
-*   **Microsoft Excel:** Advanced formulas (XLOOKUP, SUMIFS), Power Query for ETL, Pivot Tables, and dynamic charts.
-*   **Power BI / DAX:** Data modeling (Star Schema), Time Intelligence functions, custom conditional formatting, and interactive cross-filtering.
+* Data modelling
+* DAX measures
+* Interactive dashboards
+* Department-level analysis
+* Financial trend visualization
 
----
+## 💡 Key Findings
 
-## 📈 Key Insights & Features Included
+* Revenue exceeded budget, indicating positive overall revenue performance.
+* Operating profit outperformed budget, supported by stronger revenue generation.
+* Marketing recorded the highest departmental expense variance and requires further cost review.
+* Monthly analysis highlighted changes in revenue, expenses and operating profitability.
+* Management recommendations focus on controlling unfavorable costs while sustaining revenue performance.
 
-1.  **Dynamic Variance Tracking:** Automated color-coded indicators (Red/Green) alerting management to unfavorable budget overruns.
-2.  **Granular Department Filtering:** Interactive slicers that allow department heads to view localized spending versus global corporate targets.
-3.  **Trend Analysis:** Visual historical tracking to identify structural overspending versus temporary monthly fluctuations.
+## 📁 Project Files
 
----
+| File                                  | Description                         |
+| ------------------------------------- | ----------------------------------- |
+| `FPA_Budget_vs_Actual_Analysis.xlsx`  | Excel financial model and dashboard |
+| `FP&A Budget vs Actual Analysis.pbix` | Interactive Power BI report         |
+| `Excel Dashboard.png`                 | Excel dashboard preview             |
+| `FP&A Management Dashboard.png`       | Power BI management dashboard       |
+| `Budget vs Actual Analysis.png`       | Budget vs Actual analysis           |
+| `Department details.png`              | Department-level analysis           |
 
-## 🚀 How to Use This Project
+## 🎯 Business Value
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com
-    ```
-2.  **Review the Financial Model:** Open the `.xlsx` file to examine the data structure, formulas, and baseline data.
-3.  **Explore the Interactive Report:** Download and open the `.pbix` file in **Power BI Desktop** to test the interactive filters, tooltips, and dynamic visuals.
+This project demonstrates how FP&A teams can use **Excel and Power BI to monitor financial performance, investigate budget variances, identify cost pressures, and support management decision-making.**
 
-📌 Conclusion
+## 🔗 Skills Demonstrated
 
-This project bridges the gap between raw financial ledger entries and strategic execution, providing corporate leaders with the clarity needed to optimize departmental spending, mitigate financial risk, and drive accountable business growth.
+**FP&A | Budget vs Actual | Variance Analysis | Financial Modelling | Excel | Power BI | DAX | KPI Analysis | Data Visualization | Management Reporting**
+
