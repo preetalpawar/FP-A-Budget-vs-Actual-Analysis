@@ -50,4 +50,7 @@ The repository consists of the following key deliverables:
     ```
 2.  **Review the Financial Model:** Open the `.xlsx` file to examine the data structure, formulas, and baseline data.
 3.  **Explore the Interactive Report:** Download and open the `.pbix` file in **Power BI Desktop** to test the interactive filters, tooltips, and dynamic visuals.
-4.  
+
+📌 Conclusion
+
+This project bridges the gap between raw financial ledger entries and strategic execution, providing corporate leaders with the clarity needed to optimize departmental spending, mitigate financial risk, and drive accountable business growth.
